@@ -141,9 +141,9 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "db9eabe971890012a4071a96468155c2c360f80d18e73caa97bffd3b7381eed7";
 
 const char* const SEED_NODES[] = {
-  "0.0.0.0:26080",
-  "0.0.0.0:26080",
-  "0.0.0.0:26080"
+  "212.15.133.222:26080",  //dev
+  "133.130.91.75:26080", //Gon japan
+  "13.125.231.18:26080"   //Gon Korea
 };
 
 
