@@ -106,7 +106,7 @@ const uint64_t TESTNET_DIFFICULTY_TARGET                             = 15; // ta
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "laniakey";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c02ff00002101274a48ea82cb5d54547e6dd7ed87af943761d82c9050f60f56da4a7e71vaa2f1";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001c89d9deb96f806029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210143b430e9f6a846103d44de35897dbdf37e320bac29dcf620a3aee0cc6975590d";
 
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
